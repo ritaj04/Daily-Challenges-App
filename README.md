@@ -21,3 +21,12 @@
    1. Figma
    2. Flutter
    3. Visual Studio Code
+
+   ## Task Manegment
+   This project is maneged using a Trello Board
+
+   ## Authors
+
+   [Ritaj Nasser]
+   
+   
