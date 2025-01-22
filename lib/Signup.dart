@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: InitialLoginPage(),
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color.fromARGB(255, 255, 255, 255), // Light pink background
+        scaffoldBackgroundColor: const Color.fromARGB(255, 255, 255, 255), //  background color
       ),
     );
   }
